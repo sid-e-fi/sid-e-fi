@@ -14,4 +14,12 @@ I believe I have good focus and if I stick to something I give it all to it.
   Currently Learning : 📖 🖊️ <br>
   <br>
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+**Contact me at : <br>
+<br>
+<a href="https://wa.me/918847038060"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/sidd_13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>

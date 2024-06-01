@@ -3,8 +3,6 @@
 I am a very passionate student of first year who aspires to do something ground breaking in Technology.
 <br>
 I believe I have good focus and if I stick to something I give it all to it.
-<be>
-<br>
 <br>
 <br>
 <br>

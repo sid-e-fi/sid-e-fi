@@ -5,8 +5,6 @@ I am a very passionate student of first year who aspires to do something ground 
 I believe I have good focus and if I stick to something I give it all to it.
 <pre>
   
-  
-  
   <img align="right" src="https://static.wikia.nocookie.net/nicos-nextbots/images/a/af/Patrickbateman.png/revision/latest?cb=20220814120141" width="150"></pre>
 ## Sigma Male Grindset Begins NOW!
 <br>

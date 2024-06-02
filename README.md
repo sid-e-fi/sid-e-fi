@@ -23,6 +23,8 @@ I believe I have good focus and if I stick to something I give it all to it.
 <br>
 <br>
 <br>
-**Contact me at : <br>
+<footer>
+**Contact me at :<br>
 <br>
 <a href="https://wa.me/918847038060"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/sidd_13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp; <a href="mailto:siddharthsharma7@yahoo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</footer>

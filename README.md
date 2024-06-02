@@ -15,7 +15,7 @@ I believe I have good focus and if I stick to something I give it all to it.
   <br>
   Currently Learning : 📖 🖊️ <br>
   <br>
- <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
+ <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=black" width="97">
 <br>
 <br>

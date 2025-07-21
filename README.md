@@ -27,9 +27,10 @@
   <br>
   Currently Learning : 📖 🖊️ <br>
   <br>
- <a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
- <a href="https://www.html5.org"><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=black"></a>
+ <a href="https://www.python.org"><img src="[https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"></a>
+ <a href="https://www.html5.org"><img src="[https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=black](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
+ <a href="#"><img src="[https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></a>
 <br>
 <br>
 <br>

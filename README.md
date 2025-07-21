@@ -29,6 +29,7 @@
   <br>
  <a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></a>
  <a href="https://www.html5.org"><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=black"></a>
+ <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
 <br>
 <br>
 <br>

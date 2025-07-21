@@ -1,17 +1,29 @@
 # Sid-e-fi Your Life!<img src="https://media1.giphy.com/media/3C5GiCUkah8Gs/giphy.gif?cid=ecf05e47kucvfvafr49iy1kanxavuoi35r1n85mx63yylkcx&rid=giphy.gif&ct=s" width="70">
 <hr>
-<h3> A beginner starting with the journey of coding.</h3> :love_you_gesture:
-I am a very passionate student of first year who aspires to do something ground breaking in Technology.
+# 👋 Hi, I'm Siddharth Sharma
+
+🎓 **Student | Developer in Progress**  
+💡 Exploring the intersection of **technology, systems, and real-world applications**  
+🛠️ Currently learning:
+- Microcontrollers & Embedded Systems
+- Software Engineering & Operating Systems
+- Communication & Signal Processing
+
+🔍 Also interested in:
+- Web Development
+- Automation Tools
+- Open Source Contributions
+
+---
+
+> 🌱 “Learning by doing — one repo at a time.”
 <br>
-I believe I have good focus and if I stick to something I give it all to it.
 <img align="right" src="https://static.wikia.nocookie.net/nicos-nextbots/images/a/af/Patrickbateman.png/revision/latest?cb=20220814120141" width="150">
 <hr>
 <h4> Sigma Male Grindset Begins NOW!</h4>
 <br>
 <br>
 <br>
-<br> Profile Views : 
-  <img src="https://profile-counter.glitch.me/sid-e-fi/count.svg" />
   <br>
   Currently Learning : 📖 🖊️ <br>
   <br>

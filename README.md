@@ -1,6 +1,6 @@
-# Sid-e-fi Your Life!<img src="https://media1.giphy.com/media/3C5GiCUkah8Gs/giphy.gif?cid=ecf05e47kucvfvafr49iy1kanxavuoi35r1n85mx63yylkcx&rid=giphy.gif&ct=s" width="70">
+## Sid-e-fi Your Life!<img src="https://media1.giphy.com/media/3C5GiCUkah8Gs/giphy.gif?cid=ecf05e47kucvfvafr49iy1kanxavuoi35r1n85mx63yylkcx&rid=giphy.gif&ct=s" width="70">
 <hr>
-# 👋 Hi, I'm Siddharth Sharma
+👋 Hi, I'm Siddharth Sharma
 
 🎓 **Student | Developer in Progress**  
 💡 Exploring the intersection of **technology, systems, and real-world applications**  
@@ -39,7 +39,7 @@
 <br>
 <br>
 <footer>
-**Contact me at :<br>
+**Contact me at:<br>
 <br>
 <a href="https://wa.me/918847038060"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>  &nbsp; <a href="https://t.me/sidd_13"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> &nbsp; <a href="mailto:the84173@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </footer>

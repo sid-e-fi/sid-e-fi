@@ -62,6 +62,18 @@ Python scripts for recon, scanning, reporting, and workflows.
 
 ---
 
+## 📬 Contact Me
+
+**Siddharth Sharma**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddharth%20Sharma-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/13sidd/)
+[![Email](https://img.shields.io/badge/Email-the84173%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the84173@gmail.com)
+
+Feel free to reach out for collaborations, opportunities, or any questions.
+
+
+---
+
 ## 📈 Current Mission
 
 ```text

@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Hi, I'm Sid 👋  
+# 🛡️ Hi, I'm Siddharth 👋  
 ### `sid-e-fi`
 
 ### Cybersecurity Enthusiast • Security Analyst in Progress • Linux User
